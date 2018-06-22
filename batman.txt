@@ -1,3 +1,4 @@
 testing
 modify batman when kman.txt create
 modify batman by another dev.
+remote batman
