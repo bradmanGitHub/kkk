@@ -1,1 +1,2 @@
 testing
+modify batman when kman.txt create
