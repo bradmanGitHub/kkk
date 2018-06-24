@@ -3,4 +3,5 @@ modify batman when kman.txt create
 modify batman by another dev.
 remote batman
 hanaga batman
+git (remote) modify
 eclipse modify...
